@@ -1,2 +1,1 @@
-# curso-henry
-este es un repositorio del modulo 2
+como crear un repositorio y clonarlo a mi github
